@@ -1,0 +1,14 @@
+{
+  "name": "sass_session",
+  "version": "1.0.0",
+  "description": "First sass practice",
+  "main": "index.js",
+  "scripts": {
+    "scss": "node-sass --watch scss -o css"
+  },
+  "author": "Eduardo Barrientos",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
